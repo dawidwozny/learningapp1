@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/67955683-254d-42d0-952c-c3735a24ba93/resourceGroups/learning/providers/Microsoft.Web/sites/webTest12dfg",
+    "appService.deploySubpath": "learningapp/bin/Release/net8.0/publish"
+}
